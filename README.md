@@ -19,7 +19,8 @@ Aparna mowl md Multi Device Whatsapp bot
 
 3. Now Deploy
 
-<a href='/deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href='link here /deploy-heroku' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
 
 #### DEPLOY TO RAILWAY 
 
