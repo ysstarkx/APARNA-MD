@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (hermit-md)",
+  "name": "whatsapp-bot (APARNA-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/A-d-i-t-h-y-a-n/hermit-md",
+  "repository": "https://github.com/MIDHUN-NOXZ/APARNA-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -48,17 +48,17 @@
     "BOT_INFO": {
       "description": "botname;ownername;ownernumber;image url",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;972528277755;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝑌𝑆 𝛭𝛪𝐷𝛨𝑈𝛮;𝛥𝛲𝛥𝑅𝛮𝛥 𝛭𝐷;917012751946;https://i.imgur.com/LgaENJd.jpeg"
     },
     "STICKER_DATA": {
       "description": "sticker package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮"
+      "value": "𝑌𝑆 𝛭𝛪𝐷𝛨𝑈𝛮;𝛥𝛲𝛥𝑅𝛮𝛥 𝛭𝐷"
     },
     "AUDIO_DATA": {
       "description": "audio package name",
       "required": true,
-      "value": "𝛨𝛯𝑅𝛭𝛪𝑇;𝛥𝐷𝛪𝑇𝛨𝑌𝛥𝛮;https://i.imgur.com/pbNNWfM.jpeg"
+      "value": "𝑌𝑆 𝛭𝛪𝐷𝛨𝑈𝛮;𝛥𝛲𝛥𝑅𝛮𝛥 𝛭𝐷;https://i.imgur.com/LgaENJd.jpeg"
     },
     "READ_COMMAND": {
       "description": "Read all commands",
