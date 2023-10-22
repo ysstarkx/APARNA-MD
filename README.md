@@ -2,8 +2,9 @@
 ## _Aparna mowl md Multi Device Whatsapp bot_
 
 <div align="center">
-  <p align="center">
-•This bot is a in development 
+    
+# This bot is in development ⚠️
+    
 
 
 ### SETUP
