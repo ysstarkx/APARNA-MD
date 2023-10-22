@@ -12,7 +12,7 @@
 #### Scan Qr Code
 <br>
 
-<a href="qr code link here"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://replit.com/@ysstarkx1/Ys-stark-QR?v=1"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
 #### DEPLOY TO HEROKU
 
