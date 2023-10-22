@@ -8,13 +8,14 @@ Aparna mowl md Multi Device Whatsapp bot
 
 1. Scan Qr Code
     <br>
-<a href=""><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="qr code link here"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
 #### DEPLOY TO HEROKU
 
 1. If you don't have a Heroku account. Creat a account
    <br>
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href="https://signup.heroku.com/" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
 
 3. Now Deploy
 
