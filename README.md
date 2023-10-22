@@ -1,9 +1,8 @@
-<div align="center">
-  <p align="center"
-
 #### APARNA-MD V3 beta version 
-Aparna mowl md Multi Device Whatsapp bot 
+Aparna mowl md Multi Device Whatsapp bot
 
+<div align="center">
+  <p align="center">
 •This bot is a in development 
 
 
