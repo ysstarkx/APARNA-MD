@@ -14,7 +14,7 @@ Aparna mowl md Multi Device Whatsapp bot
 
 1. If you don't have a Heroku account. Creat a account
    <br>
-<a href="https://signup.heroku.com/" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://signup.heroku.com/" target="blank"><img align="center" src="https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white" alt="Deploy bot" height="112" width="310" 
   <div>
 
 3. Now Deploy
