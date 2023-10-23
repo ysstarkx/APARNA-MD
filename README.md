@@ -17,7 +17,7 @@
 #### Fork
 <br>
 
-<a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://github.com/MIDHUN-NOXZ/APARNA-MD/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 
 #### DEPLOY TO HEROKU
