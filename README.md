@@ -14,6 +14,12 @@
 
 <a href="https://replit.com/@ysstarkx1/Ys-stark-QR?v=1"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
 
+#### Fork
+<br>
+
+<a href="https://github.com/sou6av/deploy-raganork/fork" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+
 #### DEPLOY TO HEROKU
 
 #### If you don't have a Heroku account. Creat a account
